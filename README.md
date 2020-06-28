@@ -8,6 +8,8 @@ Er zijn twee verschillende apis gebruikt. Eentje is om de map in te laden deze k
 
 ## Schetsen
 Ik ben begonnen met schetsen en het opdoen van info / ideeën hieronder is dat te vinden. Vervolgens is dit uitgewerkt.
+![](images/web.jpeg)
+![](images/mobile.jpeg)
 
 ## Website live
 De website is live te bekijken via de volgende link: https://dinohier.github.io/API-Dashboard1/

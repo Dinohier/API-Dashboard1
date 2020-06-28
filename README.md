@@ -1,6 +1,9 @@
 # API-Dashboard1
 Dashboard met apis voor schoolopdracht
 
+## Schetsen
+Ik ben begonnen met schetsen en het opdoen van info / ideeën hieronder is dat te vinden. Vervolgens is dit uitgewerkt.
+
 ## Website live
 De website is live te bekijken via de volgende link: https://dinohier.github.io/API-Dashboard1/
 
